@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mmBJMHZq5hJvGKktkX7zDBxJd9pLCN0Mb0U87nSx2kp/JaXb6+1XtD9b+dQB7CRverl0yQvYEVUAaoCmA4DQzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

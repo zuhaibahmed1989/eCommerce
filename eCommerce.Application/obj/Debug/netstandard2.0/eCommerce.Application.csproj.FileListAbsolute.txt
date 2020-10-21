@@ -1,0 +1,14 @@
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Application.deps.json
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Application.dll
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Application.pdb
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.csprojAssemblyReference.cache
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.AssemblyInfoInputs.cache
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.AssemblyInfo.cs
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.dll
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.pdb
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Domain.Core.Common.dll
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Domain.Core.dll
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Domain.Core.pdb
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\bin\Debug\netstandard2.0\eCommerce.Domain.Core.Common.pdb
+C:\Users\zuhai\source\repos\eCommerce.ServiceAPI\eCommerce.Application\obj\Debug\netstandard2.0\eCommerce.Application.csproj.CopyComplete
