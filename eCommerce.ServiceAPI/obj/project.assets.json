@@ -8395,11 +8395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
       "projectName": "eCommerce.ServiceAPI",
-      "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
+      "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
       "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.ServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8418,11 +8418,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj": {
-              "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj"
+            "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj": {
+              "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj"
             },
-            "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj"
+            "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj"
             }
           }
         }

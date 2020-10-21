@@ -6170,11 +6170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj",
       "projectName": "eCommerce.DataAccess",
-      "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj",
+      "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.DataAccess\\eCommerce.DataAccess.csproj",
       "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6193,8 +6193,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
+            "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
             }
           }
         }

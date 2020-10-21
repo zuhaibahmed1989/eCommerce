@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj": {}
+    "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj": {
+    "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj",
+        "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
         "projectName": "eCommerce.Application",
-        "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\eCommerce.Application.csproj",
+        "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
         "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Application\\obj\\",
+        "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
+              "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj": {
+    "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj",
+        "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj",
         "projectName": "eCommerce.Domain.Core.Common",
-        "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj",
+        "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj",
         "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\obj\\",
+        "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
+    "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj",
         "projectName": "eCommerce.Domain.Core",
-        "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -150,8 +150,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj": {
-                "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj"
+              "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj": {
+                "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core.Common\\eCommerce.Domain.Core.Common.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "354b4V1zUdPyQqZPkRR+aj0DakUSWNJ41/v6FVrxr9nQCgMtvru4yYTqbjO1Da2jEMllCf+nCd6FojJzSe0tYQ==",
+  "dgSpecHash": "Sog/Vx6Wf3/AWQdXKFNjibGc1guqPC4rNiaY11gfpEM8YRZg6q2NNEDimFEKsbDZ5t8xkZRh1ulHy4iUjQaEpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
+  "projectFilePath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.ServiceAPI\\eCommerce.ServiceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zuhai\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\zuhai\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

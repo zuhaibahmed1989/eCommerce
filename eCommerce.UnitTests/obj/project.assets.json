@@ -3511,11 +3511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.UnitTests\\eCommerce.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.UnitTests\\eCommerce.UnitTests.csproj",
       "projectName": "eCommerce.UnitTests",
-      "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.UnitTests\\eCommerce.UnitTests.csproj",
+      "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.UnitTests\\eCommerce.UnitTests.csproj",
       "packagesPath": "C:\\Users\\zuhai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3534,8 +3534,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\zuhai\\source\\repos\\eCommerce.ServiceAPI\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
+            "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\zuhai\\Documents\\ZUHAIB\\Projects\\eCommerce\\eCommerce.Domain.Core\\eCommerce.Domain.Core.csproj"
             }
           }
         }
